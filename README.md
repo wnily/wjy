@@ -1,2 +1,2 @@
-# wjy
+# Wnily
 It's me!
